@@ -1,11 +1,4 @@
----
-layout: default
-title: "たいとる"
----
-
-
 ## Test pages
-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

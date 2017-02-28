@@ -1,10 +1,10 @@
 # Study
 
-Positronium Fine Structure measurement
+Positronium Fine Structure measurement thesis(ja)
 
 # Lecture
 
-vim
+vim ([note](vim.md))
 
 # Contact
 

@@ -1,8 +1,8 @@
-# Title
+---
+layout: default
+title: "たいとる"
+---
 
-## Mizukoshi Keita
-
-Sample text.
 
 ## Test pages
 

@@ -1,5 +1,7 @@
 ##Mizukoshi Keita
 
+Sample text.
+
 ## Test pages
 
 

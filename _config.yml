@@ -1,2 +1,9 @@
 theme: jekyll-theme-architect
 title: Mizukoshi Keita
+
+gems:
+    - jemoji
+    - jekyll-mentions
+    - jekyll-redirect-from
+    - jekyll-sitemap
+    - jekyll-feed

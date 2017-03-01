@@ -1,4 +1,12 @@
 # ROOT note
+Useful pages for buiginners
+- [ROOT ofiisial page](https://root.cern.ch)
+- [ROOT users guide](https://root.cern.ch/root/htmldoc/guides/users-guide/ROOTUsersGuide.html)
+
+Useful pages in Japanese
+- [RHEA](https://github.com/akira-okumura/RHEA)
+- [Atlas japan C++ tutorial](http://www.icepp.s.u-tokyo.ac.jp/%7Esakamoto/education/atlasj/cplusplus/index.html)
+- [kamono wiki](http://www-he.scphys.kyoto-u.ac.jp/member/n.kamo/wiki/doku.php?id=index)
 
 ## Histgram
 

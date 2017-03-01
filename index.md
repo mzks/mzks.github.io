@@ -6,7 +6,7 @@ Positronium Fine Structure measurement thesis(ja)
 
 Vim ([note](vim.md))
 
-ROOT ([note](ROOT.md))
+ROOT ([note](root.md))
 
 Latex (sample)
 

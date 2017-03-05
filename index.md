@@ -8,7 +8,7 @@ Vim ([note](vim.md))
 
 ROOT ([note](root.md))
 
-Latex (sample)
+Latex ([template](https://github.com/mzks/TexTempJa))
 
 # Contact
 

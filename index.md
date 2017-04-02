@@ -12,10 +12,11 @@ Latex ([template](https://github.com/mzks/TexTempJa))
 
 # Contact
 
-Email : mz@stu.kobe-u.ac.jp
+Email : [mz@stu.kobe-u.ac.jp](mz@stu.kobe-u.ac.jp)
 
-Website : http://ppwww.phys.sci.kobe-u.ac.jp/~mzks/
+Website : [http://ppwww.phys.sci.kobe-u.ac.jp/~mzks/]( http://ppwww.phys.sci.kobe-u.ac.jp/~mzks/)
 
 Phone : +81-6-6850-5378
 
-Address : Osaka University, Building H, Root# H404 1-1, Machikaneyama, Toyonaka City, Osaka, 560-0043, Japan
+Address :Osaka University, Building H, Root# H404
+		 1-1, Machikaneyama, Toyonaka City, Osaka, 560-0043, Japan

@@ -18,5 +18,5 @@ Website : [http://ppwww.phys.sci.kobe-u.ac.jp/~mzks/]( http://ppwww.phys.sci.kob
 
 Phone : +81-6-6850-5378
 
-Address :Osaka University, Building H, Root# H404
+Address :Osaka University, Building H, Room# H404
 		 1-1, Machikaneyama, Toyonaka City, Osaka, 560-0043, Japan
